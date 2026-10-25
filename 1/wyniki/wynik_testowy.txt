@@ -1,0 +1,3 @@
+Test loss: 0.7977
+Test accuracy: 72.82%
+Best validation accuracy: 73.50%
